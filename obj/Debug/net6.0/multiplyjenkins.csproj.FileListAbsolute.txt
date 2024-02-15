@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase4\multiplyjenkins\multiplyjenkins\bin\Debug\net6.0\multiplyjenkins.exe
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase4\multiplyjenkins\multiplyjenkins\bin\Debug\net6.0\multiplyjenkins.deps.json
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase4\multiplyjenkins\multiplyjenkins\bin\Debug\net6.0\multiplyjenkins.runtimeconfig.json
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase4\multiplyjenkins\multiplyjenkins\bin\Debug\net6.0\multiplyjenkins.dll
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase4\multiplyjenkins\multiplyjenkins\bin\Debug\net6.0\multiplyjenkins.pdb
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase4\multiplyjenkins\multiplyjenkins\obj\Debug\net6.0\multiplyjenkins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase4\multiplyjenkins\multiplyjenkins\obj\Debug\net6.0\multiplyjenkins.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase4\multiplyjenkins\multiplyjenkins\obj\Debug\net6.0\multiplyjenkins.AssemblyInfo.cs
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase4\multiplyjenkins\multiplyjenkins\obj\Debug\net6.0\multiplyjenkins.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase4\multiplyjenkins\multiplyjenkins\obj\Debug\net6.0\multiplyjenkins.dll
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase4\multiplyjenkins\multiplyjenkins\obj\Debug\net6.0\refint\multiplyjenkins.dll
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase4\multiplyjenkins\multiplyjenkins\obj\Debug\net6.0\multiplyjenkins.pdb
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase4\multiplyjenkins\multiplyjenkins\obj\Debug\net6.0\multiplyjenkins.genruntimeconfig.cache
+C:\Users\Hp\Desktop\PRACTISE EXCERCISES\C#\Phase4\multiplyjenkins\multiplyjenkins\obj\Debug\net6.0\ref\multiplyjenkins.dll
